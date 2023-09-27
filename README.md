@@ -16,3 +16,7 @@ This app is built with MVVM clean architecture and have following feature:
 **Compatibility**
 
 Recruitment App for Android is compatible with Android SDK version 24+.
+
+**Demo**
+
+![spacex_launch_tracker_demo](https://github.com/suyash0910ss/spacex-launch-tracker/assets/146174033/434956bb-f4fd-478f-841a-fbfb4e1031e7)
