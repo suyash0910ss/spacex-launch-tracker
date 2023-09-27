@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SpaceX Launch Tracker</string>
+
+    <string name="loading_label">Loading...</string>
+    <string name="image_content_description">Thumbnail</string>
+    <string name="rocket_name_label">Rocket Name: %s</string>
+    <string name="rocket_type_label">Rocket Type: %s</string>
+    <string name="ships_label">Ships: %s</string>
+    <string name="launch_status_label">Launch Status: %s</string>
+    <string name="launch_failure_reason_label">Launch Failure Reason: %s</string>
+    <string name="launch_location_label">Launch Location: %s</string>
+    <string name="launch_date_label">Launch Date: %s</string>
+    <string name="mission_objective_label">Mission Objective</string>
+    <string name="rocket_details_label">Rocket Details</string>
+    <string name="launch_details_label">Launch Details</string>
+    <string name="related_links_label">Related Links</string>
+</resources>
