@@ -13,10 +13,6 @@ This app is built with MVVM clean architecture and have following feature:
 1. All launches: https://api.spacexdata.com/v3/launches
 2. Single launch: https://api.spacexdata.com/v3/launches/{{flight_number}}
 
-**Compatibility**
-
-Recruitment App for Android is compatible with Android SDK version 24+.
-
 **Demo**
 
 ![spacex_launch_tracker_demo](https://github.com/suyash0910ss/spacex-launch-tracker/assets/146174033/434956bb-f4fd-478f-841a-fbfb4e1031e7)
